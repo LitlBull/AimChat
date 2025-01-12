@@ -86,6 +86,7 @@ python main.py
 Enter a username and password to create an account or log in with existing credentials.
 
 #Add Contacts:
+#temp removed**
 
 Add contacts by their username.
 
@@ -94,8 +95,8 @@ Add contacts by their username.
 Select a contact and send an encrypted message.
 
 #View Contacts:
+#temp removed**
 
-View a list of all added contacts.
 
 #Configuration
 
@@ -103,7 +104,6 @@ IRC Server: The application connects to irc.oftc.net on port 6667.
 
 #Default Channel: The application joins the #aim423 channel. You can modify this in the connect_irc function.
 
-Channel Password: Update the channel_password variable in the script if required by the IRC server.
 
 #License
 
