@@ -1,13 +1,6 @@
 # AimChat
 IRC Messenger Project
 
-    _    _            ____ _           _   
-   / \  (_)_ __ ___  / ___| |__   __ _| |_ 
-  / _ \ | | '_ ` _ \| |   | '_ \ / _` | __|
- / ___ \| | | | | | | |___| | | | |_| | |_ 
-/_/   \_\_|_| |_| |_|\____|_| |_|\__,_|\__|
-
-
 Overview
 
 AimChat is a Python-based application that allows users to securely communicate via IRC channels with encrypted messages. 
