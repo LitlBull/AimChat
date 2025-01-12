@@ -53,14 +53,6 @@ irc
 
 #The application installs these dependencies automatically on startup.
 
-#Installation
-
-From Source
-
-#Clone the repository:
-
-git clone https://github.com/username/Aim_Chat.git
-cd Aim_Chat
 
 #Run the script:
 
